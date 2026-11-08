@@ -1,0 +1,13 @@
+# Visual Studio user state and generated files
+.vs/
+*.vcxproj.user
+/x64/
+/Debug/
+/Release/
+/小型仓库货物出入库与库存预警系统/x64/
+/小型仓库货物出入库与库存预警系统/Debug/
+/小型仓库货物出入库与库存预警系统/Release/
+
+# Inventory data written beside the executable
+warehouse.dat
+warehouse.dat.tmp
